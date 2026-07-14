@@ -1,0 +1,20 @@
+# SciTrack Gitignore
+
+# Ignore secret config file containing Supabase and EmailJS keys
+SciTrack/config.js
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore editor and local settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary clone directory (if left over)
+temp_repo/

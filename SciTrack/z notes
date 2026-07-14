@@ -1,0 +1,25 @@
+Changes:
+
+Added a Borrow/Return action toggle in the RFID terminal.
+
+Integrated a 10-item maximum cart system for batch equipment processing.
+
+Created a live tracking dashboard for students (Active Loans and Recent History).
+
+Built a secure Incident Report tab and form exclusively for Admins/Superadmins.
+
+Fixed the dynamic background images for both Light and Dark themes.
+
+Enhanced the visibility and contrast of the "Register Here" and "Switch Role" links.
+
+Resolved button click issues by fixing the JavaScript ES Module scope.
+
+Provided SQL queries to generate and update the necessary Supabase database tables.
+
+Restricted standard Admins to only modifying Student accounts.
+
+Prevented standard Admins from granting Admin or Superadmin privileges to anyone.
+
+Added the notifcation tab on top
+
+Archived Incidents addition
